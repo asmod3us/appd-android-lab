@@ -1,3 +1,3 @@
 # appd-android-lab
 
-# Uses Sample Android weather Application
+Uses Sample Android weather Application
